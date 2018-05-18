@@ -1,0 +1,17 @@
+/*hide right bar*/
+#related{
+	display: none;
+}
+
+/*hide end of video suggestion*/
+#movie_player > div.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles.ytp-endscreen-paginate{
+	display: none;
+}
+#movie_player > div.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles{
+	display: none;
+}
+
+/*hide home page suggestion*/
+#page-manager > ytd-browse{
+	display: none;
+}
